@@ -1,0 +1,21 @@
+.documents {
+    padding: 1rem 0rem;
+    list-style-type: none;
+}
+
+.documents li {
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    margin-bottom: 1rem;
+}
+
+.documents li:hover {
+    background-color: rgb(200, 200, 255);
+}
+
+.documents li a {
+    color: blue;
+    display: block;
+    padding: 1rem;
+    text-decoration: underline 1.5px;
+}
